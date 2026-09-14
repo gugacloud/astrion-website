@@ -251,7 +251,7 @@ main { position: relative; }
   transition: opacity 0.3s, filter 0.3s;
 }
 .partners__track img:hover { opacity: 1; filter: grayscale(0); }
-.partners__track img[alt="Schneider Electric"] { height: clamp(34px, 3.8vw, 48px); }
+.partners__track img[alt="Eaton"] { height: clamp(38px, 4.2vw, 54px); }
 
 /* --- serviços (lista indexada, não cards) --- */
 .services__list { border-top: 1px solid var(--hair); }
